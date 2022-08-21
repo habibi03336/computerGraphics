@@ -1,0 +1,6 @@
+.DS_Store
+/utils
+*.xcodeproj/
+CGNote/
+GraphicsSource/
+models/
