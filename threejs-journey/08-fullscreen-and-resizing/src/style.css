@@ -1,0 +1,21 @@
+* 
+{
+    margin: 0;
+    padding: 0;
+}
+
+/* limit 이상으로 scroll 불가(safari에서 limit 이상으로 bouncing하는 거 방지*/
+html,
+body
+{
+    overflow: hidden;
+}
+
+
+.webgl 
+{
+    position: fixed;
+    top: 0;
+    left: 0;
+    outline: none;
+}
